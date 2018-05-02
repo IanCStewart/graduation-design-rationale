@@ -1,3 +1,5 @@
+![front page](assets/images/front-page.png)
+
 # Design Rationale
 Design Rationale voor Club Ruis Loyalty app.
 
