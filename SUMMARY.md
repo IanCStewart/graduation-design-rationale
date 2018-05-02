@@ -1,8 +1,8 @@
 # Summary
 
-* [Meta](README.md)
+* [Document Gegevens](README.md)
 
---
+---
 
 ## 1. Introductie
 * [Club Ruis](introduction/club-ruis.md)
@@ -31,7 +31,7 @@
 * [Conclusie](closing/conclusion.md)
 * [Visie](closing/vision.md)
 
---
+---
 
 * [Download](misc/DOWNLOAD.md)
 * [Bibliografie](misc/LITERATURE.md)
