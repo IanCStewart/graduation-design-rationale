@@ -1,5 +1,5 @@
-# Product Biografie
-Digitale collectie van alle documenten voor mijn Afstudeer Project.
+# Design Rationale
+Design Rationale voor Club Ruis Loyalty app.
 
 |||
 |-|-|
