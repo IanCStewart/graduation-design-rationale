@@ -17,4 +17,13 @@ Na het inloggen/ registreren komt de gebruiker op home terecht. Hier ziet de geb
 ## Agenda
 Hier vind de gebruiker de opkomende events die plaats gaan vinden. Ik heb gekozen om hier twee versies van de lijst aan te bieden. De gebruiker kan hier kiezen tussen alle events of de events die hij/zij geliked heeft. De lijst zal altijd op volgorde van eerst volgende datum zijn. Ik heb er voor gekozen om een card met een paar regels aan content preview zodat de gebruiker snel kan beslissen of hij meer over het event wil of niet.
 
-![Agenda](../assets/images/protoype-agenda.jpg)
+![Agenda](../assets/images/prototype-agenda.jpg)
+
+## QR
+*stuff about QR view*
+
+## Deals
+*stuff about Deals view*
+
+## Profile
+*stuff about Profile view*
