@@ -11,7 +11,7 @@
 
 ## 2. Context
 * [Probleem Situatie](context/problem.md)
-* [Design Challenge](context/design-challange.md)
+* [Design Challenge](context/design-challenge.md)
 
 ## 3. Research
 * [Doelgroep](research/focus-group.md)
