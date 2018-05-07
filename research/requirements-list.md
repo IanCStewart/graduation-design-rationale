@@ -1,5 +1,7 @@
 # Requirements List
 
+> To ensure your design meets all demands, a complete list of requirements can serve as a planning tool and checklist. ~ CMD Methods Pack (z.d.)
+
 ## Opdrachtgever
 Na een interview met de opdrachtgever kwam ik tot de volgende behoeftes:
 - Brand loyalty
