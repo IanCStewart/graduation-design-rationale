@@ -8,6 +8,7 @@
 * Parke, T. (2016, 8 februari). How to Design Native Mobile Apps. Geraadpleegd op 3 mei 2018, van https://medium.com/@uxhow/how-to-design-native-mobile-apps-55d383fcb2b2
 
 ## Foto's
+* Apple Inc. (2018). iOSHIG Hero [Foto]. Geraadpleegd op 3 mei 2018, van https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
 * Club Ruis. (z.d.). [Screenshot website Club Ruis] [Foto]. Geraadpleegd op 2 mei 2018, van http://www.clubruis.nl/
 * Club Ruis. (z.d.). [Ingang Club Ruis] [Foto]. Geraadpleegd op 12 februari 2018, van http://www.clubruis.nl/de-club/
 * Pinterest. (z.d.). [screenshot zoekterm space] [Foto]. Geraadpleegd op 2 mei 2018, van https://nl.pinterest.com/search/pins/?q=space&rs=typed&term_meta[]=space%7Ctyped
