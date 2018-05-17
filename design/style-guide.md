@@ -1,8 +1,8 @@
 # Style Guide
 
-Één van de requirements was om de app te ontwerpen in de huistijl van Club Ruis. Naast deze requirement van de opdrachtgever, verwachte de doelgroep een ontwerp die een premium look & feel heeft.
+Één van de requirements was om de app te ontwerpen in de huistijl van Club Ruis. Naast deze requirement van de opdrachtgever, verwachten de doelgroep een ontwerp die een premium look & feel heeft.
 
-Om tot een correcte style guide heb ik de site van Club Ruis bestudeert. Club Ruis heeft momenteel een 'space' thema gecombineerd met een aantal standaard kleuren. Na aanleiding van mijn visueel onderzoek heb ik de ondervindingen gecombineerd tot een style guide. Deze heb ik voor de rest van mijn project gebruikt om kleur en font bepalingen te maken.
+Om tot een correcte style guide heb ik de site van Club Ruis bestudeerd. Club Ruis heeft momenteel een 'space' thema gecombineerd met een aantal standaard kleuren. Na aanleiding van mijn visueel onderzoek heb ik de ondervindingen gecombineerd tot een style guide. Deze heb ik voor de rest van mijn project gebruikt om kleur en font bepalingen te maken.
 
 ![Styleguide](../assets/images/styleguide.jpg)
 
