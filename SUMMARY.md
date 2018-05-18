@@ -10,11 +10,11 @@
 * [Focus](introduction/focus.md)
 
 ## 2. Context
+* [Doelgroep](context/focus-group.md)
 * [Probleem Situatie](context/problem.md)
 * [Design Challenge](context/design-challenge.md)
 
 ## 3. Research
-* [Doelgroep](research/focus-group.md)
 * [Requirements List](research/requirements-list.md)
 
 ## 4. Design
