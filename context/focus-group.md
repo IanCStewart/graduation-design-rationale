@@ -1,5 +1,3 @@
 # Doelgroep
 
-Na interviews met een aantal gasten van de club en de opdrachtgever ben ik tot de volgende doelgroep gekomen.
-
-> De doelgroep bestaat uit mannen en vrouwen tussen de 18 en 25 jaar afkomstig uit Haarlem en omstreken. De bezoekers van Club Ruis zijn op zoek naar vernieuwende elektronische muziek.
+Uit interviews met een aantal gasten van de club, de opdrachtgever en het promotie team van Club Ruis, heb ik de volgende doelgroep gedefinieerd. De doelgroep bestaat uit mannen en vrouwen die tot de leeftijds categorie 18 tot 25 jaar behoren. Het grootste deel van de doelgroep woont in Haarlem en omgeving. De doelgroep komt naar Club Ruis voor haar vernieuwende elektronische muziek. De doelgroep heeft een dure smaak in kleding en producten die ze gebruiken. Dit is ook terug te zien in hun koop gedrag binnen de club. De doelgroep volgt grote artiesten binnen binnen hun muziek scene, denk hier aan artiesten als Ronnie Flex en Lil' Kleine. Het grootste deel van de doelgroep heeft MBO denk en werk niveau.
