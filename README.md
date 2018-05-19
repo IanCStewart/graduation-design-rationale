@@ -1,7 +1,7 @@
 ![front page](assets/images/front-page.jpg)
 
 # Design Rationale
-Design Rationale voor Club Ruis Loyalty app.
+Design Rationale voor Club Ruis Loyalty app. In dit document belicht ik de belangrijkste keuzes tijdens mijn project.
 
 #### Docent:
 * Harold Konickx

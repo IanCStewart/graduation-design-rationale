@@ -4,28 +4,28 @@
 
 ---
 
-* Introductie
+* **Introductie**
   * [Club Ruis](introduction/club-ruis.md)
   * [Aanleiding](introduction/motivation.md)
   * [Focus](introduction/focus.md)
 
 ---
 
-* Context
+* **Context**
   * [Doelgroep](context/focus-group.md)
   * [Probleem Situatie](context/problem.md)
   * [Design Challenge](context/design-challenge.md)
 
 ---
 
-* Research
+* **Onderzoek**
   * [Requirements List](research/requirements-list.md)
   * [Style Guide](design/style-guide.md)
   * [Design Guidelines](design/guidelines.md)
 
 ---
 
-* Prototype
+* **App**
   * [App Flow](prototype/flow.md)
   * [Social Media Login](prototype/social-media-login.md)
   * [Push Notifications](prototype/push-notifications.md)
@@ -33,9 +33,9 @@
 
 ---
 
-* Afsluiting
+* **Conclusie**
   * [Conclusie](closing/conclusion.md)
-  * [Visie](closing/vision.md)
+  * [Hoe nu verder?](closing/vision.md)
 
 ---
 
