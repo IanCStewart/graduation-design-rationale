@@ -33,5 +33,5 @@
 
 ---
 
-* [Download](misc/DOWNLOAD.md)
 * [Literatuur](misc/LITERATURE.md)
+* [Download](misc/DOWNLOAD.md)
