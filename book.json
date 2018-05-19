@@ -1,3 +1,3 @@
 {
-  "plugins": ["-sharing", "theme-gestalt", "-theme-default", "styles-sass-fix"]
+  "plugins": ["-sharing", "theme-gestalt", "-theme-default"]
 }

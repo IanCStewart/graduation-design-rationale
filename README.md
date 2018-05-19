@@ -3,7 +3,7 @@
 # Design Rationale
 Design Rationale voor Club Ruis Loyalty app.
 
-#### Docentbegeleider:
+#### Docent:
 * Harold Konickx
 * [h.h.g.konickx@hva.nl](h.h.g.konickx@hva.nl)
 
