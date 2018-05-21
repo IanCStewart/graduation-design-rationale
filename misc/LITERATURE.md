@@ -6,6 +6,7 @@
 * HAN University of Applied Sciences - Amsterdam University of Applied Sciences, the Netherlands. (z.d.). CMD Methods Pack: Find a combination of research methods that suit your needs. Geraadpleegd op 23 april 2018, van  ISBN/EAN: 9990002057946. Available at: http://cmdmethods.nl/.
 * Milliman, T. (2017, 11 mei). After building my first React Native app, I’m now convinced it’s the future. Geraadpleegd op 23 april 2018, van https://medium.freecodecamp.org/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8
 * Parke, T. (2016, 8 februari). How to Design Native Mobile Apps. Geraadpleegd op 3 mei 2018, van https://medium.com/@uxhow/how-to-design-native-mobile-apps-55d383fcb2b2
+* Ross, E. (2016, 28 juni). 3 Differences – Apple’s HIG vs Google’s Material Design Standards. Geraadpleegd op 21 mei 2018, van https://nectarpd.com/3-differences-apples-hig-vs-googles-material-design-standards/
 
 ## Foto's
 * Apple Inc. (2018). iOSHIG Hero [Foto]. Geraadpleegd op 3 mei 2018, van https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
