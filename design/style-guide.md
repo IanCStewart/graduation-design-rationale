@@ -20,3 +20,8 @@ Bij de tekst kleuren zijn er twee varianten te vinden op de site. Dit zijn een g
 Voor het thema heb ik gekeken wat de meest voorkomende kleuren in 'space' foto's. Hierbij is de kleur paars de prominente kleur. Naast paars is blauw een veel voorkomende kleur.
 
 ![Pinterest Space search](../assets/images/space-colors.jpg)
+
+## Passende bij de fysieke club?
+De stijl van de site is goed afgestemd op de stijl binnen de club. De gasten zullen dus het zelfde 'thuis' gevoel krijgen bij het bezoeken van de club als bij het bezoeken van de site.
+
+![Ingang club ruis](../assets/images/club-ruis-ingang.jpg)
