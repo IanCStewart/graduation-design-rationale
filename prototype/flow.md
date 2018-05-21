@@ -2,13 +2,13 @@
 
 Om de app overzichtelijk te houden heb ik er voor gekozen om de app op te splitsen in vijf views.
 
-![Switching pages within the tab navigator](../assets/images/tab-bar.gif)
-
 - Home
 - Events
 - QR
 - Deals
 - Profile
+
+![Switching pages within the tab navigator](../assets/images/tab-bar.gif)
 
 Zoals hierboven zichtbaar is kan de gebruiker tussen deze 5 views switchen door middle van een tab navigatie. Hiermee is alle functionaliteit makkelijk en snel te vinden. Dit heb ik gedaan om aan de volgende behoefte van de gebruikers te voldoen: `Makkelijk te gebruiken app` en `Snel bij functionaliteiten komen`.
 
