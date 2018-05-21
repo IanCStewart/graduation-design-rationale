@@ -9,8 +9,7 @@
 * Ross, E. (2016, 28 juni). 3 Differences – Apple’s HIG vs Google’s Material Design Standards. Geraadpleegd op 21 mei 2018, van https://nectarpd.com/3-differences-apples-hig-vs-googles-material-design-standards/
 
 ## Foto's
-* Apple Inc. (2018). iOSHIG Hero [Foto]. Geraadpleegd op 3 mei 2018, van https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
 * Club Ruis. (z.d.). [Screenshot website Club Ruis] [Foto]. Geraadpleegd op 2 mei 2018, van http://www.clubruis.nl/
 * Club Ruis. (z.d.). [Ingang Club Ruis] [Foto]. Geraadpleegd op 12 februari 2018, van http://www.clubruis.nl/de-club/
 * Pinterest. (z.d.). [screenshot zoekterm space] [Foto]. Geraadpleegd op 2 mei 2018, van https://nl.pinterest.com/search/pins/?q=space&rs=typed&term_meta[]=space%7Ctyped
-* React Native Visualized [Foto]. (2016, 5 januari). Geraadpleegd op 14 februari 2018, van https://blog.algolia.com/wp-content/uploads/2015/12/react-native.png
+* A. Stanislawski (2016, 5 januari). React Native Visualized [Foto]. Geraadpleegd op 14 februari 2018, van https://blog.algolia.com/wp-content/uploads/2015/12/react-native.png
