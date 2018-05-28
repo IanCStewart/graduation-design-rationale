@@ -34,7 +34,7 @@
 ---
 
 * Conclusie
-  * [Uitkomst](closing/conclusion.md)
+  * [Conclusie](closing/conclusion.md)
   * [Hoe nu verder?](closing/vision.md)
   * [Reflectie](closing/reflection.md)
 
