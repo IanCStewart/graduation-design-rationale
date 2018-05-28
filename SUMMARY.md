@@ -28,13 +28,13 @@
 * App
   * [App Flow](prototype/flow.md)
   * [Social Media Login](prototype/social-media-login.md)
-  * [Push Notifications](prototype/push-notifications.md)
   * [Passbook](prototype/passbook.md)
+  * [Push Notifications](prototype/push-notifications.md)
 
 ---
 
 * Conclusie
-  * [Conclusie](closing/conclusion.md)
+  * [Uitkomst](closing/conclusion.md)
   * [Hoe nu verder?](closing/vision.md)
   * [Reflectie](closing/reflection.md)
 
