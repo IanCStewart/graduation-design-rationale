@@ -1,5 +1,7 @@
 # Social Media Login/ Register
 
+![Social Login](../assets/images/prototype-social-login.jpg)
+
 Voor het inloggen en registreren is er voor gekozen om middels social media een koppeling te maken. Deze keuze kwam voort uit zowel een behoefte van de doelgroep als de client.
 
 ## Doelgroep
