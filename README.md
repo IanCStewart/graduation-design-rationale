@@ -3,11 +3,11 @@
 # Design Rationale
 Design Rationale voor Club Ruis Loyalty app. In dit document belicht ik de belangrijkste keuzes tijdens mijn project.
 
-#### Docent:
+#### Docent
 * Harold Konickx
 * [h.h.g.konickx@hva.nl](h.h.g.konickx@hva.nl)
 
-#### Student:
+#### Student
 * Ian Stewart
 * 500715564
 * [ian.c.stewart@icloud.com](ian.c.stewart@icloud.com)
