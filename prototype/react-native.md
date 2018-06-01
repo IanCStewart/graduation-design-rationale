@@ -1,6 +1,6 @@
 # React Native Prototype
 
-Naast een klikbaar prototype in sketch heb ik een opzet gemaakt voor een prototype in React Native. Hierbij zijn een paar keuzes gemaakt bij het opzetten en de structuur van het project. De code voor dit prototype is te vinden op [GitHub](https://github.com/IanCStewart/ruis-loyalty-app).
+Naast een [klikbaar prototype in sketch](https://sketch.cloud/s/5xWvE) heb ik een opzet gemaakt voor een prototype in React Native. Hierbij zijn een paar keuzes gemaakt bij het opzetten en de structuur van het project. De code voor dit prototype is te vinden op [GitHub](https://github.com/IanCStewart/ruis-loyalty-app).
 
 ## Folder structuur
 ![Folder Structure](../assets/images/folder-structure.png)
