@@ -29,7 +29,7 @@
   * [App Flow](prototype/flow.md)
   * [Social Media Login](prototype/social-media-login.md)
   * [Passbook](prototype/passbook.md)
-  * [Push Notifications](prototype/push-notifications.md)
+  * [React Native](prototype/react-native.md)
 
 ---
 
