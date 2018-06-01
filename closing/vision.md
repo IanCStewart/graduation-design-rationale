@@ -17,5 +17,7 @@ Hier onder heb ik een lijst opgesteld met volgende stappen/ wensen/ aandachtpunt
 
 
 [1] Dit blijft natuurlijk een doorlopend process zelfs nadat de app live is in de app stores.
+
 [2] De huidige benaming voor de ranking komt rechtreeks uit de game wereld. Deze benaming kan specefieker worden gemaakt door het aan te sluiten op de club en hun gasten.
+
 [3] Uit een enkele gebruikers testen kwam naar voren dat er gemist werd in welke app ze zaten.
