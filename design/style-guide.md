@@ -1,8 +1,8 @@
 # Style Guide
 
-Één van de requirements was om de app te ontwerpen in de huistijl van Club Ruis. Naast deze requirement van de opdrachtgever, verwachten de doelgroep een ontwerp die een premium look & feel heeft.
+Één van de requirements was om de app te ontwerpen in de huistijl van Club Ruis. Naast deze requirement van de opdrachtgever, verwachtte de doelgroep een ontwerp die een premium look & feel heeft.
 
-Om tot een correcte style guide heb ik de site van Club Ruis bestudeerd. Club Ruis heeft momenteel een 'space' thema gecombineerd met een aantal standaard kleuren. Na aanleiding van mijn visueel onderzoek heb ik de ondervindingen gecombineerd tot een style guide. Deze heb ik voor de rest van mijn project gebruikt om kleur en font bepalingen te maken.
+Om tot een correcte style guide heb ik de [site van Club Ruis](http://www.clubruis.nl) en de fysieke club bestudeerd. Club Ruis heeft momenteel een 'space' thema gecombineerd met een aantal standaard kleuren. Na aanleiding van mijn visueel onderzoek heb ik de ondervindingen gecombineerd tot een style guide. Deze heb ik voor de rest van mijn project gebruikt om kleur en font bepalingen te maken.
 
 ![Styleguide](../assets/images/styleguide.jpg)
 
@@ -11,7 +11,7 @@ Om tot een correcte style guide heb ik de site van Club Ruis bestudeerd. Club Ru
 ![Ruis Style](../assets/images/ruis-huis-style.jpg)
 
 ### Achtergrond kleur
-Hierbij is gekeken wat de voorkomende achtergrond kleuren waren op http://www.clubruis.nl. Op veel plekken word er een afbeelding gebruikt als achtergrond. Op plekken waar tekst staat word momenteel 1 van de twee kleur codes gebruikt #211D1E of #FEFEFE.
+Hierbij is gekeken wat de voorkomende achtergrond kleuren waren op http://www.clubruis.nl. Op veel plekken wordt er een afbeelding gebruikt als achtergrond. Op plekken waar tekst staat word momenteel 1 van de twee kleur codes gebruikt #211D1E of #FEFEFE.
 
 ### Text
 Bij de tekst kleuren zijn er twee varianten te vinden op de site. Dit zijn een grijsbruine variant en een zwarte variant. De zwarte varient is bedoeld voor op lichtere achtergronden en de hrijsbruine op donkere.

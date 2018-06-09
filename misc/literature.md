@@ -10,6 +10,7 @@
 * Milliman, T. (2017, 11 mei). After building my first React Native app, I’m now convinced it’s the future. Geraadpleegd op 23 april 2018, van https://medium.freecodecamp.org/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8
 * Parke, T. (2016, 8 februari). How to Design Native Mobile Apps. Geraadpleegd op 3 mei 2018, van https://medium.com/@uxhow/how-to-design-native-mobile-apps-55d383fcb2b2
 * Ross, E. (2016, 28 juni). 3 Differences – Apple’s HIG vs Google’s Material Design Standards. Geraadpleegd op 21 mei 2018, van https://nectarpd.com/3-differences-apples-hig-vs-googles-material-design-standards/
+* Scribbr. (2015, 8 september). Soorten interviews. Geraadpleegd op 9 juni 2018, van https://www.scribbr.nl/onderzoeksmethoden/soorten-interviews/
 * Soni, R. (2017, 11 augustus). 9 Things You Should Know About Social Login & CRO. Geraadpleegd op 28 mei 2018, van https://conversionxl.com/blog/social-login/
 
 ## Foto's

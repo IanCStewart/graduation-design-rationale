@@ -26,8 +26,9 @@
 ---
 
 * App
-  * [App Flow](prototype/flow.md)
+  * [Het Concept](prototype/concept.md)
   * [Social Media Login](prototype/social-media-login.md)
+  * [App Flow](prototype/flow.md)
   * [Passbook](prototype/passbook.md)
   * [React Native](prototype/react-native.md)
 
